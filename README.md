@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pythpal20
 - 👀 I’m interested in Web Programming
 - 🌱 I’m currently learning PHP, JavaScript, PHP Framework Like Ci Or Laravel
-- 💞️ I’m looking to collaborate on Some Project
+- 💞️ I’m looking to collaborate on Some Project Or If you need me to collaborate with your project
 - 📫 You can contact me with send me an email at christofelpaulus@gmail.com / pchristofels@gmail.com
 
 <!---
